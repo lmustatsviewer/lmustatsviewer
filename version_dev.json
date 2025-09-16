@@ -10,7 +10,7 @@
       ]
     },
     "0.9.2": {
-      "date": "2025-09-10",
+      "date": "",
       "notes": [
         "Add : System check for available update",
         "Bug fixe: Automatic refresh after update"
@@ -24,7 +24,7 @@
       ]
     },
     "0.9": {
-      "date": "2025-09-14",
+      "date": "",
       "notes": [
         "New color for GTE (Thanks @h55d)",
         "Modified CSS colors for best sectors and secors with optimal time for a best reading",
@@ -37,14 +37,14 @@
       ]
     },
     "0.8": {
-      "date": "2025-09-13",
+      "date": "",
       "notes": [
         "Fixed SPA sector 2 times (minutes missing)",
         "Fix German translation (Thanx @Texas-Edelweis)"
       ]
     },
     "0.7": {
-      "date": "2025-09-12",
+      "date": "",
       "notes": [
         "Modified the ranking in the best times (Thanks @astroremucho)",
         "Add: filters on the details table (sectors, vmax...)",
@@ -54,7 +54,7 @@
       ]
     },
     "0.6": {
-      "date": "2025-09-11",
+      "date": "",
       "notes": [
         "Add: class-based ranking for multi-class races",
         "Add: a class ranking column and display of classes in details",
@@ -68,7 +68,7 @@
       ]
     },
     "0.5": {
-      "date": "2025-09-10",
+      "date": "",
       "notes": [
         "Add: difference with the first in the details tables",
         "Add: finishing position for the best laps table on the details page",
@@ -84,14 +84,14 @@
       ]
     },
     "0.4": {
-      "date": "2025-09-09",
+      "date": "",
       "notes": [
         "Add: a filter for online / off line",
         "Add: a filter on details page to quickly find your name in race lap"
       ]
     },
     "0.3": {
-      "date": "2025-09-08",
+      "date": "",
       "notes": [
         "Add: a filter to display only the best times since LMU v1, as the times are no longer the same (Thx : @Pillot69)",
         "differentiated between the 2023 and 2024/205 Peugeot 9x8(Thx : @Pillot69)",
@@ -99,7 +99,7 @@
       ]
     },
     "0.2": {
-      "date": "2025-09-07",
+      "date": "",
       "notes": [
         "configuration issue that wasn't saving the log path"
       ]
