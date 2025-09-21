@@ -3,7 +3,7 @@
   "release_url": "https://www.overtake.gg/downloads/lmu-stats-viewer.79131",
   "changelog": {
     "0.9.4": {
-      "date": "2025-09-16",
+      "date": "2025-09-23",
       "notes": [
         "Bug: My laps bug",
         "Bug: Finish position display bug in best laps",
@@ -24,7 +24,7 @@
       ]
     },
     "0.9.1": {
-      "date": "2025-09-15",
+      "date": "",
       "notes": [
         "Add : System check for available update",
         "Bug fixe: Automatic refresh after update"
