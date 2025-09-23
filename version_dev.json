@@ -5,15 +5,16 @@
     "0.9.4": {
       "date": "2025-09-23",
       "notes": [
+        "Add: Race car summary",
+        "Add: LMP3 for upcoming update",
+        "Add: Drivers comparison"   
+        "Add: Added GTE table",
+        "Add: Version of the game",
         "Bug: My laps bug",
         "Bug: Finish position display bug in best laps",
         "Modified: Graphics improvements",
         "Modified: Code cleanup",
-        "Modified: Translation fixed",
-        "Add: Added GTE table",
-        "Add: Race car summary",
-        "Add: LMP3 for upcoming update",
-        "Add: Drivers comparison"      
+        "Modified: Translation fixed",  
       ]
     },
     "0.9.2": {
